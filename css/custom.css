@@ -1,0 +1,124 @@
+        .center {
+          position: absolute;
+          margin-bottom: 10px;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-size: 4.5vh;
+          color:white;
+        }
+        #garis{
+          position: absolute;
+          top: 57%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          background:orange;
+          width:8%;
+          height:0.5%;
+        }
+        #garis_text{
+            width:180px;
+            height:2px;
+            background:orange;
+            top:50px;
+            position: absolute;
+        }
+        #nava{
+            font-family: 'clear sans';
+            src: url('css/ClearSans-Medium.ttf');
+            right:0px;
+            color:orange;
+            font-size:50px;
+        }
+        #savana{
+            margin-top: -20px;
+            font-family: 'clear sans';
+            src: url('css/ClearSans-Medium.ttf');
+            left:0px;
+            color:orange;
+            font-size:50px;
+        }
+        #type{
+            font-family: 'opensans';
+            src: url('css/OpenSans-Regular.ttf');
+            margin-left: 86px;
+            color:black;
+            font-size:20px;
+            margin-top:-37px;
+        }
+        #type_savana{
+            font-family: 'opensans';
+            src: url('css/OpenSans-Regular.ttf');
+            color:black;
+            font-size:20px;
+            margin-top:-37px;
+        }
+        #kv{
+          position: absolute;
+          top: 63%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-size: 5.9vw;
+          color:orange;
+          font-family: 'clear sans';
+          src: url('css/ClearSans-Medium.ttf');
+        }
+        #text_kawasan{
+            position: absolute;
+            font-family: 'opensans';
+            src: url('css/OpenSans-Regular.ttf');
+            font-size: 3.2vmin;
+            top:100px;
+
+        }
+        .gambar_nava{
+            position:absolute;
+            top:200px;
+        }
+        h3{
+            font-family: 'clear sans';
+            src: url('css/ClearSans-Medium.ttf');
+            color:orange;
+        }
+        #text_nava{
+            margin-top: 20px;
+            text-align:left;
+            src: url('css/OpenSans-Regular.ttf');
+            font-size:2.8vh;
+        }
+        #text_savana{
+            text-align:right;
+            src: url('css/OpenSans-Regular.ttf');
+            font-size:2.8vh;
+        }
+        #garis_container{
+            width:100%;
+            height:5px;
+            background:orange;
+            margin-top:50px;
+        }
+        #commercial{
+            margin-left:35%;
+            margin-top:40px;
+            width:200px;
+            height:3px;
+            background:orange;
+
+        }
+        #titik_sentral{
+            margin-left:35%;
+            font-family: 'opensans';
+            src: url('css/OpenSans-Regular.ttf');
+            font-size:20px;
+            margin-top:30px;
+            margin-bottom:40px;
+        }
+        #titik_sentral1{
+            margin-left:35%;
+            font-size:20px;
+        }
+        .site-logo-footer{
+            font-weight: 200;
+            font-family: "Playfair Display";
+            color: white;
+        }

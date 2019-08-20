@@ -304,6 +304,14 @@ a {
           visibility: visible;
           opacity: 1; }
 
+.site-navbar .site-navigation .site-menu > li.active1 > a {
+  color: #f23a2e;
+}
+
+.site-navbar .site-navigation .site-menu > li > a:hover {
+  color: #000000;
+}
+
 .site-navbar-wrap {
   background: transparent !important;
   position: fixed;
@@ -416,6 +424,8 @@ a {
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
         color: #f23a2e; }
+        .site-mobile-menu .site-nav-wrap li.active1 > a {
+          color: #f23a2e; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
