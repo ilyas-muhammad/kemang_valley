@@ -183,6 +183,11 @@ a {
   box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
 }
 
+.fixed-top {
+  -webkit-box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
+}
+
 .site-navbar {
   margin-bottom: 0px;
   width: 100%;
@@ -1398,6 +1403,8 @@ a {
       color: #000; }
   .hotel-room .hotel-room-body {
     padding: 30px; }
+  .hotel-room .hotel-room-body2 {
+    padding: 10px; }
     .hotel-room .hotel-room-body .price {
       color: #5c7893;
       font-weight: 400; }
