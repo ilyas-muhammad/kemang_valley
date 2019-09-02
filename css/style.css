@@ -208,11 +208,11 @@ a {
       display: inline-block;
       padding: 10px 5px; }
       .site-navbar .site-navigation .site-menu > li > a {
-        padding: 10px 10px;
+        padding: 10px 5px;
         text-transform: uppercase;
         letter-spacing: .05em;
         color: rgba(0, 0, 0, 0.6);
-        font-size: 14px !important;
+        font-size: 17px !important;
         text-decoration: none !important; }
       .site-navbar .site-navigation .site-menu > li:last-child {
         padding-right: 0; }
