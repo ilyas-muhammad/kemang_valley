@@ -135,3 +135,67 @@
             font-family: "Playfair Display";
             color: white;
         }
+
+        @media (max-width: 992px) {
+            .img-atas{
+                width: 120%;
+                height: 250%;
+            }
+
+            .center{
+                top: 47%;
+                font-size: 2.5vw;
+            }
+
+            #garis{
+                top: 53%;
+            }
+
+            #kv{
+                font-size: 3.5vw;
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .img-atas{
+                width: 150%;
+                height: 250%;
+            }
+
+            .center{
+                top: 46%;
+                font-size: 3.5vw;
+            }
+
+            #garis{
+                top: 52%;
+            }
+
+            #kv{
+                font-size: 5vw;
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .img-atas{
+                width: 250%;
+                height: 400%;
+            }
+
+            .center{
+                top: 40%;
+                font-size: 5vw;
+            }
+
+            #garis{
+                top: 46%;
+            }
+
+            #kv{
+                font-size: 7vw;
+                text-align: center;
+                top: 60%;
+            }
+        }
